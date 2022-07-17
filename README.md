@@ -3,4 +3,4 @@
 
 ### 📫 How to reach me: 
 [Linkedin](https://www.linkedin.com/in/ethan-liu-069717216/)
-- 😄 Pronouns: He/Him
+Profile still under construction.
