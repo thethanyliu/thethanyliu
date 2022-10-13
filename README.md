@@ -6,6 +6,8 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ethanliu666" alt="ethanliu666" /></a> </p> -->
 
+----
+
 - 🔭 I’m currently working on [my personal portfolio](https://ethanliu666.github.io/personal-website/)
 
 - 🌱 I’m currently learning **React, AWS.**
