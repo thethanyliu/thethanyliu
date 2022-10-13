@@ -1,18 +1,10 @@
-<!-- ### Hello there, I'm Ethan 👋
-
-
-### 📫 How to reach me: 
-[Linkedin](https://www.linkedin.com/in/ethan-liu-069717216/)\
-[Instagram](https://www.instagram.com/ethanliu8/)
-- Profile still under construction. -->
-
 <h1 align="center">Hello there, I'm Ethan</h1>
 <h3 align="center">A first year CS student at the University of Waterloo.</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ethanliu666&show_icons=true&locale=en" alt="ethanliu666" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ethanliu666&label=Profile%20views&color=0e75b6&style=flat" alt="ethanliu666" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ethanliu666" alt="ethanliu666" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ethanliu666" alt="ethanliu666" /></a> </p> -->
 
 - 🔭 I’m currently working on [My Personal Portfolio](https://ethanliu666.github.io/personal-website/)
 
