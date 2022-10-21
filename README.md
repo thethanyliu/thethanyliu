@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [my personal portfolio](https://ethanliu666.github.io/personal-website/)
 
-- 🌱 I’m currently learning **React, AWS.**
+- 🌱 I’m currently learning **React, data structures and algorithms.**
 
 - 👨‍💻 All of my projects are available at [https://ethanliu666.github.io/personal-website/](https://ethanliu666.github.io/personal-website/)
 
